@@ -1,3 +1,9 @@
+'''
+Author: Jay Patil
+Date: 22 August 2020
+Purpose: Learning Python
+'''
+
 from tkinter import *
 root = Tk()
 root.geometry("655x333")
