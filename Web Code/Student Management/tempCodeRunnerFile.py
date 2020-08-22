@@ -1,0 +1,8 @@
+    con = pymysql.connect(host="localhost",user="root",password="",database="StM")
+            cur = con.cursor()
+            cur.execute("delete from students where roll_no=%s",self.Roll_No_var.get())
+            con.commit()
+            con.close()
+            self.fetch_Data()
+            self.clear()
+            messagebox.showinfo("Success","Data Deleted.")

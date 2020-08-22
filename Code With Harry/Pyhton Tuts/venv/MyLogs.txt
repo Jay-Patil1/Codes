@@ -1,0 +1,14 @@
+Drank water at,2020-05-21 14:48:29.152996
+Eyes Relaxed at,2020-05-21 14:48:34.211780
+Physical Activity Done at,2020-05-21 15:22:33.705557
+Drank water at,2020-05-21 15:32:24.576733
+Eyes Relaxed at,2020-05-21 15:37:34.437669
+Physical Activity Done at,2020-05-21 15:52:45.827012
+Drank water at,2020-05-21 16:12:34.121383
+Eyes Relaxed at,2020-05-21 16:43:44.515351
+Physical Activity Done at,2020-05-21 16:43:50.379632
+Physical Activity Done at,2020-05-22 16:21:20.179132
+Drank water at,2020-05-22 16:21:23.497143
+Physical Activity Done at,2020-05-23 16:09:54.508571
+Drank water at,2020-05-23 16:19:50.656467
+Eyes Relaxed at,2020-05-23 16:24:50.659088

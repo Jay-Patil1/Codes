@@ -1,0 +1,4 @@
+#LWP-Cookies-2.0
+Set-Cookie3: GPS=1; path="/"; domain=".youtube.com"; path_spec; domain_dot; expires="2020-06-03 07:25:51Z"; version=0
+Set-Cookie3: VISITOR_INFO1_LIVE=8xvkjwMTx2o; path="/"; domain=".youtube.com"; path_spec; domain_dot; secure; expires="2020-11-30 06:55:51Z"; httponly=None; samesite=None; version=0
+Set-Cookie3: hideBrowserUpgradeBox=True; path="/"; domain=".youtube.com"; path_spec; domain_dot; expires="2020-06-04 06:55:51Z"; version=0
