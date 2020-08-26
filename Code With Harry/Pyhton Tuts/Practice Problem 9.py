@@ -42,16 +42,23 @@ for i in range(names):
 print(f"The names are:\n{fnames}")
 print(f"The last names are:\n{lnames}")
 
-rlnames = []
+for i in range(len(lnames)):
+    rlnames = random.sample(lnames,names)
 
-while True:
-    rlname = random.randint(0, len(lnames)-1)
-    rlnames.append(rlname)
-    if len(rlnames) == len(lnames):
-        break
+for i in range(len(fnames)):
+    print(f"Random Names are:\n{fnames[i]} {rlnames[i]}")
+
+# rlnames = []
+
+# while True:
+#     rlname = random.randint(0, len(lnames)-1)
+#     rlnames.append(rlname)
+#     if len(rlnames) == len(lnames):
+#         break
 
 
-print("The jumbled names are:")
-for i in range(0,len(lnames)):
-    rlname1 = random.randint(0, len(rlnames)-1)
-    print(f"{fnames[i]} {lnames[rlname1]}")
+# print("The jumbled names are:")
+# for i in range(0,len(lnames)):
+#     rlname1 = random.randint(0, len(rlnames)-1)
+#     print(f"{fnames[i]} {lnames[rlname1]}")
+
